@@ -72,6 +72,8 @@ def run_cyk_for_lengths(max_len):
 # Run the analysis for input strings of length 1 to 10
 init_ops_list, terminal_ops_list, total_ops_list = run_cyk_for_lengths(10)
 
+
+#######################################################################################################################
 # Graficar los resultados
 
 # 1. Inicialización de la tabla
