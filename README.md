@@ -1,3 +1,5 @@
+#Juan Gallardo; Juan Joya; Jefferson Gutiérrez
+
 # Proyecto CYK Algorithm
 
 Este proyecto implementa el algoritmo CYK en Python y C++. Este documento proporciona instrucciones sobre cómo ejecutar ambos archivos.
