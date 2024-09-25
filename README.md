@@ -1,4 +1,4 @@
-#Juan Gallardo; Juan Joya; Jefferson Gutiérrez
+Juan Gallardo; Juan Joya; Jefferson Gutiérrez
 
 # Proyecto CYK Algorithm
 
